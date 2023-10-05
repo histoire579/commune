@@ -1,0 +1,41 @@
+.navbar-dark .navbar-nav .nav-link {
+    font-size: 19px;
+}
+
+.d-inline-block {
+    font-size: 19px;
+}
+
+.bg-primary {
+    --bs-bg-opacity: 1;
+    background-color: #f8d210 !important;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #12110d;
+    border-color: #12110d;
+}
+
+.navbar.navbar-light.fixed .btn {
+    background: #12110d;
+    border-color: #12110d;
+    color: #fff;
+}
+
+.btn-primary:hover {
+    color: #000;
+    background-color: #f8d210 !important;
+    border-color: #f8d210 !important;
+}
+
+.btn-red {
+    --bs-bg-opacity: 1;
+    background-color: #aa3f2f !important;
+    border: none;
+}
+
+.btn-red:hover {
+    color: #fff;
+    background-color: #000 !important;
+}
